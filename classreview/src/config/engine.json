@@ -1,0 +1,14 @@
+{
+  "engineName": "class-search",
+  "endpointBase": "https://fc291d883ecf4989b5bcc15df3efb8f1.ent-search.eastus2.azure.elastic-cloud.com",
+  "searchKey": "search-q9rxfzjoni45u8mr5awdjtnw",
+  "resultFields": [
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ]
+}

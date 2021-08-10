@@ -1,0 +1,23 @@
+.heading {
+  font-size: 30px;
+  color: white;
+  margin-left: 2rem;
+}
+
+.container {
+  background-color: #665cac;
+  max-height: 5rem;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+}
+
+.buttons {
+  margin-right: 3rem;
+}
+
+@media screen and (max-width: 800px) {
+  .heading {
+    font-size: 25px;
+  }
+}

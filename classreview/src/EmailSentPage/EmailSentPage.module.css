@@ -1,0 +1,48 @@
+.body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container-forgot {
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background: #9053c7;
+}
+
+.wrap-forgot {
+  width: 80%;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 177px 130px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  text-align: center;
+}
+
+.subheading {
+  padding-top: 1.5rem;
+}

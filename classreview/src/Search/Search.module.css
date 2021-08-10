@@ -1,0 +1,28 @@
+.parent-container {
+  padding-bottom: 3rem;
+}
+
+.searchresults-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+.heading {
+  margin-top: 3%;
+  margin-left: 22%;
+  padding-bottom: 2rem;
+  font-size: 30px;
+
+  font-family: "Roboto", sans-serif;
+}
+
+.course-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 22%;
+
+  max-width: fit-content;
+}

@@ -1,0 +1,19 @@
+.parent-container {
+  width: 100%;
+}
+
+.rating-heading {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.centered-level {
+  margin-top: 2%;
+  width: 100%;
+  max-width: 100%;
+}
